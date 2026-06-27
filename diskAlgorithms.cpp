@@ -1,5 +1,6 @@
 //
 // Created by Zakaria Abdullahi on 6/27/26.
+#include "diskAlgorithms.h"
 
 // Disk Algorithm 1
 
