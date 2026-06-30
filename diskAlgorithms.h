@@ -5,12 +5,11 @@
 #ifndef PROGRAMMING_ASSIGNMENT_3_CS480_DISKALGORITHMS_H
 #define PROGRAMMING_ASSIGNMENT_3_CS480_DISKALGORITHMS_H
 
+#include <vector>
+using namespace std;
 
-
-// Disk Algorithm 1
-
-// Disk Algorithm 2
-
-// Disk Algorithm 3
+int fsfs(const vector<int>& requests, int start);
+int sstf(const vector<int>& requests, int start);
+int scan(const vector<int>& requests, int start);
 
 #endif //PROGRAMMING_ASSIGNMENT_3_CS480_DISKALGORITHMS_H
