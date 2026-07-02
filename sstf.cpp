@@ -1,8 +1,6 @@
 //
 // Created by Zakaria Abdullahi on 6/27/26.
 #include "diskAlgorithms.h"
-
-#include <iostream>
 #include <vector>
 using namespace std;
 
@@ -31,3 +29,4 @@ int sstf(const vector<int>& requests, int start) {
     }
     return totalDistance;
 }
+

@@ -1,5 +1,5 @@
 //
-// Created by Zakaria Abdullahi on 6/27/26.
+// Created by Zakaria Abdullahi and Issac Afram on 6/27/26.
 //
 #include "diskAlgorithms.h"
 #include <iostream>
@@ -41,6 +41,8 @@ int main(int argc, char* argv[]) {
         cout << request << " ";
     }
     cout << endl << endl;
+    cout << "FCFS total distance: " << fcfs(requests, startPosition) << endl;
     cout << "SSTF total distance: " << sstf(requests, startPosition) << endl;
+    cout << "SCAN total distance: " << scan(requests, startPosition) << endl;
     return 0;
 }

@@ -1,3 +1,4 @@
+#include "diskAlgorithms.h"
 #include <vector>
 #include <cmath> 
 

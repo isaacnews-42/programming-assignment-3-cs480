@@ -8,7 +8,7 @@
 #include <vector>
 using namespace std;
 
-int fsfs(const vector<int>& requests, int start);
+int fcfs(const vector<int>& requests, int start);
 int sstf(const vector<int>& requests, int start);
 int scan(const vector<int>& requests, int start);
 
