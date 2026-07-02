@@ -1,5 +1,5 @@
 //
-// Created by Zakaria Abdullahi and Issac Afram on 6/27/26.
+// Created by Zakaria Abdullahi and Isaac Afram on 6/27/26.
 //
 #include "diskAlgorithms.h"
 #include <iostream>
